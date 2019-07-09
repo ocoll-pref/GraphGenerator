@@ -1,1 +1,1 @@
-Set-Content -Path "C:\Users\ocoll.PREFNET\source\repos\GraphGenerator\outputfile.txt" -Value "Hello world"
+Set-Content -Path "C:\Users\ocoll.PREFNET\source\repos\GraphGenerator\outputfile.txt" -Value "Hello world from RTM branch"
